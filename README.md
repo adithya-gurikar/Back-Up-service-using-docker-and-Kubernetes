@@ -1,10 +1,8 @@
 # Back-Up-service-using-docker-and-Kubernetes
 
-#make sure ur crds are for desktop applicaton
+#Make sure your crds are for desktop applicaton
 
 
-docker run -it lol 
+docker run -it scheduled_drive_uploader
 
-
-
-docker build -t name .
+docker build -t name
