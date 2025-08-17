@@ -12,4 +12,4 @@ RUN pip install  -r requirements.txt
 
 EXPOSE 80
 
-CMD ["python", "lol.py"]
+CMD ["python", "scheduled_drive_uploader.py"]
